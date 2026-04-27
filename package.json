@@ -1,0 +1,21 @@
+{
+  "name": "lambdatest-amazon-automation",
+  "version": "1.0.0",
+  "description": "Automated test cases for Amazon using Playwright - TestMu AI Assignment",
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "test:lambdatest": "LAMBDATEST=true playwright test",
+    "report": "playwright show-report"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.59.1"
+  },
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
