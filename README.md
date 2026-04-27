@@ -26,7 +26,7 @@ Both tests run **in parallel** (2 workers) via Playwright's built-in parallel ex
 ---
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 - **Framework:** Playwright  
 - **Language:** JavaScript  
@@ -51,7 +51,7 @@ npx playwright install chromium
 
 ---
 
-## 📌 Test Scenarios
+##  Test Scenarios
 
 ### ✅ Test Case 1: iPhone Purchase Flow
 - Navigate to Amazon  
@@ -71,7 +71,7 @@ npx playwright install chromium
 
 ---
 
-## ⚡ Parallel Execution
+##  Parallel Execution
 
 Both test cases are configured to run in parallel using Playwright’s built-in parallel execution feature.
 
@@ -96,7 +96,7 @@ npm run report
 
 ---
 
-## Bonus: Run on LambdaTest Cloud 
+Run on LambdaTest Cloud 
 
 Sign up at [LambdaTest.com](https://www.lambdatest.com) and grab your credentials from the dashboard.
 
