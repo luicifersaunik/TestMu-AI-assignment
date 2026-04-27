@@ -3,7 +3,7 @@
 Automated test cases for Amazon.com using **Playwright** (JavaScript/Node.js).
 
 **Author:** Saurabh Pramanik  
-**Assignment:** Customer Engineering Intern — TestMu AI (formerly LambdaTest)
+**Assignment:** Customer Engineering Intern — TestMu AI
 
 ---
 
